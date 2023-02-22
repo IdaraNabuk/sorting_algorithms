@@ -44,4 +44,5 @@ typedef struct deck_node_s
 } deck_node_t;
 
 void sort_deck(deck_node_t **deck);
-#endif
+
+#endif /* _DECK_H_ */
